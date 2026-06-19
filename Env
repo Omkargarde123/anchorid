@@ -1,0 +1,7 @@
+DATABASE_URL=postgres://user:password@localhost:5432/anchorid
+GOOGLE_CLIENT_ID=your_google_client_id_here
+GOOGLE_CLIENT_SECRET=your_google_client_secret_here
+OTP_SERVICE_API_KEY=your_otp_service_key_here
+JWT_SECRET=your_jwt_secret_here
+PORT=3000
+
